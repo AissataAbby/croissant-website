@@ -38,3 +38,10 @@ footer {
   margin: 0px auto;
 
 }
+
+@media (min-width: 576px) {
+
+  img {
+    size: 100%;
+  }
+ }
